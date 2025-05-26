@@ -1,4 +1,4 @@
-package odt.care.todokotlin.Models
+package odt.care.todokotlin.models
 
 import jakarta.persistence.*
 import java.time.LocalDateTime
