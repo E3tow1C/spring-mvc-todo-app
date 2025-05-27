@@ -1,4 +1,4 @@
-package odt.care.todokotlin.`repositorั`
+package odt.care.todokotlin.repository
 
 import odt.care.todokotlin.model.Todo
 import org.springframework.data.jpa.repository.JpaRepository
