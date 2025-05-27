@@ -1,7 +1,7 @@
-package odt.care.todokotlin.controllers
+package odt.care.todokotlin.controller
 
-import odt.care.todokotlin.models.Todo
-import odt.care.todokotlin.services.TodoService
+import odt.care.todokotlin.model.Todo
+import odt.care.todokotlin.service.TodoService
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.*

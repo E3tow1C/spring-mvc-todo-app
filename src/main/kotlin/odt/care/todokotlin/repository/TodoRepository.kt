@@ -1,6 +1,6 @@
-package odt.care.todokotlin.repositories
+package odt.care.todokotlin.`repositorั`
 
-import odt.care.todokotlin.models.Todo
+import odt.care.todokotlin.model.Todo
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 
