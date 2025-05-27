@@ -1,7 +1,7 @@
 package odt.care.todokotlin.service
 
 import odt.care.todokotlin.model.Todo
-import odt.care.todokotlin.`repositorั`.TodoRepository
+import odt.care.todokotlin.repository.TodoRepository
 import org.springframework.stereotype.Service
 import java.time.LocalDateTime
 import java.util.*
